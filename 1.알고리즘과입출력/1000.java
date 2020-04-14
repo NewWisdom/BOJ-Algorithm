@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 			Scanner scan =new Scanner(System.in);
 			int A = scan.nextInt();
-			int B = scan.nextInt();
+			int B = scan.nextInt(); 
 			System.out.println(A+B);
 	}
 
